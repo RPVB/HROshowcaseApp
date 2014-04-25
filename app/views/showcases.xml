@@ -1,0 +1,27 @@
+<Alloy>
+	<Tab id="" title="showcases" >
+			<Window title="Sections &amp; Rows">
+				<TableView  id="showcases" filterAttribute="title">
+					<SearchBar></SearchBar>
+					<TableViewSection headerTitle="Eerste jaars">
+						<TableViewRow title="Strooizout" onClick="een"/>
+					</TableViewSection>
+					<TableViewSection headerTitle="Tweede jaars">
+						<TableViewRow title="Hoverboard" onClick="twee"/>
+						<TableViewRow title="Auto´s" onClick="vijf"/>
+						<TableViewRow title="OV" onClick="zes"/>
+					</TableViewSection>
+					<TableViewSection headerTitle="Derde jaars">
+						<TableViewRow title="Aardappelen" onClick="drie"/>
+						<TableViewRow title="Virtual reality"/>
+						<TableViewRow title="Laptops"/>
+					</TableViewSection>
+					<TableViewSection headerTitle="Vierde jaars">
+						<TableViewRow title="Bier" onClick="vier"/>
+						<TableViewRow title="Boten"/>
+						<TableViewRow title="Treinen"/>
+					</TableViewSection>
+				</TableView>
+			</Window>
+	</Tab>
+</Alloy>

@@ -1,0 +1,21 @@
+"Window": {
+backgroundColor: '#fff'
+},
+"Label": {
+color: '#000',
+font: {
+fontSize: '32dp',
+fontWeight: 'bold'
+}
+},
+"TableViewRow": {
+height: '50dp',
+color : '#000',
+},
+"SearchBar": {
+height: "43dp",
+top: 0,
+barColor: "#444",
+showCancel: true
+}
+

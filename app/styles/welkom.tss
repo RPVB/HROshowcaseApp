@@ -1,0 +1,13 @@
+".container" : {
+   backgroundColor : "#fff"
+}
+"#HeaderLabel" : {
+	color:'#000',
+    font:{fontSize:40,
+          fontFamily:'Helvetica Neue'},
+}
+"#BodyLabel" : {
+	color:'#000',
+    font:{fontSize:20,
+          fontFamily:'Helvetica Neue'},
+}

@@ -1,0 +1,10 @@
+<Alloy>
+	<Tab id="" title="home">
+	<Window id="welkom">
+	 <View class="container" layout="vertical">
+		<Label top="20" id="HeaderLabel" />
+		<Label top ="20" width="80%" id="BodyLabel"/>
+	 </View>
+	 </Window>
+	</Tab>
+</Alloy>
